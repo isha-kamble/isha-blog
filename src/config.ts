@@ -1,10 +1,10 @@
 const buildConfig = () => {
   const blogId = process.env.NEXT_PUBLIC_BLOG_ID; 
   if (!blogId) throw new Error("NEXT_PUBLIC_BLOG_ID is missing");
-  const name = process.env.NEXT_PUBLIC_BLOG_DISPLAY_NAME || "Physiotherapy Blog.";
+  const name = process.env.NEXT_PUBLIC_BLOG_DISPLAY_NAME || "Isha's Blog.";
   const copyright = process.env.NEXT_PUBLIC_BLOG_COPYRIGHT || "Isha";
   const defaultTitle =
-    process.env.NEXT_DEFAULT_METADATA_DEFAULT_TITLE || " ";
+    process.env.NEXT_DEFAULT_METADATA_DEFAULT_TITLE || "Isha's Blog";
   const defaultDescription = process.env.NEXT_PUBLIC_BLOG_DESCRIPTION || "Blog about physiotherapy, fitness and lifestyle.";
 
   return {
