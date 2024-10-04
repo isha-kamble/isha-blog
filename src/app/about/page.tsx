@@ -15,6 +15,8 @@ While I deeply value my background in physiotherapy, I found the demands of the 
 Now, I'm on the lookout for non-clinical roles in the healthcare industry, particularly in pharmacovigilance and clinical research. Through this blog, I aim to share my journey, insights, and the lessons I've learned along the way. Whether you’re a fellow healthcare professional or someone exploring career transitions, I hope you find inspiration and valuable information here.
 
 Thank you for joining me on this exciting journey!
+
+[Please send enquiries here](mailto:contact@dr-isha-kamble.com)
 `;
 
 
