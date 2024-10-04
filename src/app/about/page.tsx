@@ -6,25 +6,20 @@ import Markdown from "react-markdown";
 
 const content = `# About Me
 
-![Samantha](https://imagedelivery.net/lLmNeOP7HXG0OqaG97wimw/clvlugru90000o4g8ahxp069s/db7abbe3-aa5c-433e-a16d-cbf137d1c9e5.png/public)
+![Isha](https://imagedelivery.net/lLmNeOP7HXG0OqaG97wimw/clvlugru90000o4g8ahxp069s/db7abbe3-aa5c-433e-a16d-cbf137d1c9e5.png/public)
 
-Hey there! I'm Samantha, a 28-year-old former corporate warrior who decided to ditch the 9-to-5 grind and embark on an adventure of a lifetime. After years of hustling in a high-pressure job, I realized that life is too short to be stuck in an office, staring at spreadsheets all day.
+Welcome to my blog! I’m Isha, a 26 year old passionate physiotherapist turned healthcare researcher. I graduated with my physiotherapy degree in 2022 and soon pursued my Master's in the UK. However, life took an unexpected turn, and I returned to India to continue my practice.
 
-So I took a leap of faith, quit my cushy job in Singapore, and decided to see the world on my own terms. No more stuffy meetings or rigid schedules – just me, my backpack, and an open road ahead.
+While I deeply value my background in physiotherapy, I found the demands of the profession to be both physically and mentally taxing. This experience ignited my desire to explore a different path within healthcare—one that combines my love for the field with a focus on research.
 
-![Samantha](https://imagedelivery.net/lLmNeOP7HXG0OqaG97wimw/clvlugru90000o4g8ahxp069s/6b080e65-2329-4a36-ad5c-0a6af8d9aeb1.png/public)
+Now, I'm on the lookout for non-clinical roles in the healthcare industry, particularly in pharmacovigilance and clinical research. Through this blog, I aim to share my journey, insights, and the lessons I've learned along the way. Whether you’re a fellow healthcare professional or someone exploring career transitions, I hope you find inspiration and valuable information here.
 
-This blog is where I'll be documenting my travels, sharing my experiences, and hopefully inspiring others to follow their wanderlust. From trekking through remote villages to savoring local cuisines, I'm on a mission to immerse myself in different cultures and create memories that will last a lifetime.
+Thank you for joining me on this exciting journey!
 
-But this journey isn't just about checking off destinations from a bucket list. It's about self-discovery, personal growth, and finding the courage to live life on my own terms. I'll be honest and raw, sharing the highs and lows, the moments of pure bliss and the inevitable challenges that come with solo travel.
 
-So join me on this adventure, and let's explore the world together! Who knows, maybe my stories will inspire you to take that leap of faith and pursue your own dreams, whatever they may be.
 
-Let's go on an adventure!
 
-Love,
 
-Samantha`;
 
 export async function generateMetadata() {
   return {
