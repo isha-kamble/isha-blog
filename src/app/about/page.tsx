@@ -6,7 +6,7 @@ import Markdown from "react-markdown";
 
 const content = `# About Me
 
-![Isha](https://github.com/isha-kamble/isha-blog/blob/108442f6904bd4e3dc0632a3b81b7302c8023977/public/images/Ishavercelpp.jpg)
+![Isha](https://raw.githubusercontent.com/isha-kamble/isha-blog/108442f6904bd4e3dc0632a3b81b7302c8023977/public/images/Ishavercelpp.jpg)
 Welcome to my blog! I’m Isha, a 26 year old passionate physiotherapist turned healthcare researcher. I graduated with my physiotherapy degree in 2022 and soon pursued my Master's in the UK. However, life took an unexpected turn, and I returned to India to continue my practice.
 
 While I deeply value my background in physiotherapy, I found the demands of the profession to be both physically and mentally taxing. This experience ignited my desire to explore a different path within healthcare—one that combines my love for the field with a focus on research.
