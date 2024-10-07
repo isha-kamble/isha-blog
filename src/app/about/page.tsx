@@ -6,7 +6,7 @@ import Markdown from "react-markdown";
 
 const content = `# About Me
 
-![Isha](https://imagedelivery.net/lLmNeOP7HXG0OqaG97wimw/clvlugru90000o4g8ahxp069s/db7abbe3-aa5c-433e-a16d-cbf137d1c9e5.png/public)
+![Isha](https://github.com/isha-kamble/isha-blog/blob/ddfae759486d6fdc1db72394f233f5feedac99ec/public/images/Ishavercelpp.jpg)
 
 Welcome to my blog! I’m Isha, a 26 year old passionate physiotherapist turned healthcare researcher. I graduated with my physiotherapy degree in 2022 and soon pursued my Master's in the UK. However, life took an unexpected turn, and I returned to India to continue my practice.
 
